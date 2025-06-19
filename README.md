@@ -45,7 +45,7 @@
 
 - 🌐 Portfolio: [My Website](https://santhosh939s.github.io/my-portfolio-with-css/)
 - 💬 Ask me about **HTML, CSS, JS, Python, DBMS, and Web Projects**
-- 📫 Email me at: **ms9391220057@gmail.com**
+- 📫 Email me at: **msanthoshkumar2108@gmail.com**
 
 ---
 
